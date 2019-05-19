@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*DOCUMENTO PARA LAS FOTOS DE LOS HEADERS*/
+
+
+#ñeri {
+
+	background-position: center center; 
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 250px;
+	background-image: url(cabañas.jpg);
+}
